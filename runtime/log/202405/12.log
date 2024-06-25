@@ -1,0 +1,57 @@
+---------------------------------------------------------------
+[ 2024-05-12T17:50:12+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-05-12T17:50:12+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-05-12T17:50:12+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-05-12T17:50:13+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-05-12T17:50:13+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-05-12T17:50:13+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-05-12T17:50:13+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/apps
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-05-12T17:50:13+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-05-12T17:50:13+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-05-12T17:50:14+08:00 ] 107.150.119.7 POST yameihghgabnfjhgfa669.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-05-12T17:50:14+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-05-12T17:50:15+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-05-12T17:50:15+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-05-12T17:50:15+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-05-12T17:50:15+08:00 ] 107.150.119.7 POST yameihghgabnfjhgfa669.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-05-12T17:50:16+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-05-12T17:50:16+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-05-12T17:50:16+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/uploads/apimap
+[ error ] controller not exists:app\api\controller\Uploads
+---------------------------------------------------------------
+[ 2024-05-12T17:50:16+08:00 ] 107.150.119.7 GET yameihghgabnfjhgfa669.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1

