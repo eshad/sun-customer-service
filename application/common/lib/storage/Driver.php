@@ -43,14 +43,14 @@ abstract class Driver
         if (in_array($this->extension,['jpg', 'jpeg', 'png', 'gif', 'bmp', 'webp'])) {
             $type = 'images';
             if (isset($option['image_size']) && is_numeric($option['image_size'])) {
-                if (!$this->file->check(['size'=>5120*5120*$option['image_size']])) {
+                if (!$this->file->check(['size'=>20480*20480*$option['image_size']])) {
                     throw new StorageException("图片大小受限，最大为:".$option['image_size']."MB");
                 };
             }
         } else {
             $type = 'files';
             if (isset($option['file_size']) && is_numeric($option['file_size'])) {
-                if (!$this->file->check(['size'=>5120*5120*$option['file_size']])) {
+                if (!$this->file->check(['size'=>20480*20480*$option['file_size']])) {
                     throw new StorageException("文件大小受限，最大为:".$option['file_size']."MB");
                 };
             }
