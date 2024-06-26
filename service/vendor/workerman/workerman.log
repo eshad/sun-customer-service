@@ -1200,3 +1200,6 @@
 2024-06-25 17:58:27 pid:49871 Workerman[start.php] has been stopped
 2024-06-25 17:58:27 pid:50719 Workerman[start.php] stop success
 2024-06-25 20:18:09 pid:50723 Workerman[start.php] stopping ...
+2024-06-25 23:53:31 pid:3962 Workerman[start.php] restart 
+2024-06-25 23:53:31 pid:3962 Workerman[start.php] is stopping ...
+2024-06-25 23:53:31 pid:3962 Workerman[start.php] stop success

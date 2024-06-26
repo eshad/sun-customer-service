@@ -1,6 +1,5 @@
-config/database.php
-public/wolive.js
+
+
 .DS_Store
 */.DS_Store
-public/index.php
-runtime/*
+
