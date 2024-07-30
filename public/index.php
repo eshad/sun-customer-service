@@ -33,7 +33,7 @@ define('app_key','sxzjm9jrrbilshbs');
 define('app_secret','xaghrfzwtzryilxt0ckwk73qvife30mk');
 define('app_id',232);
 define('whost','ws://kefu7hgshjagskgahsa4.online');
-define('ahost','http://kefu7hgshjagskgahsa4.online');
+define('ahost','http://47.129.4.65');
 define('wport',9090);
 define('aport',2080);
 define('registToken','1973438824');

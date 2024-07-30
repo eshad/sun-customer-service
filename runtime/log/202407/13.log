@@ -1,0 +1,756 @@
+---------------------------------------------------------------
+[ 2024-07-13T00:39:58+08:00 ] 83.147.52.49 GET www.httpskefu7hgshjagskgahsasadf5.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-13T00:39:58+08:00 ] 83.147.52.49 GET www.httpskefu7hgshjagskgahsasadf3.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-13T01:36:45+08:00 ] 20.77.49.93 POST httpskefu7hgshjagskgahsasadf3.online/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T03:05:43+08:00 ] 83.147.52.49 GET www.kefu7hgshjagskgahsa3.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-13T05:11:50+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 POST www.kefu7hgshjagskgahsa4.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 POST www.kefu7hgshjagskgahsa4.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 POST www.kefu7hgshjagskgahsa4.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T05:11:51+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T05:11:52+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T05:11:52+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T05:11:52+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T05:11:52+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T05:11:52+08:00 ] 152.32.128.61 GET www.kefu7hgshjagskgahsa4.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T05:15:16+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 POST www.kefu7hgshjagskgahsa3.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T05:15:17+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 POST www.kefu7hgshjagskgahsa3.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 POST www.kefu7hgshjagskgahsa3.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T05:15:18+08:00 ] 101.36.113.201 GET www.kefu7hgshjagskgahsa3.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 POST httpskefu7hgshjagskgahsasadf3.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 POST httpskefu7hgshjagskgahsasadf5.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 POST httpskefu7hgshjagskgahsasadf3.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 POST httpskefu7hgshjagskgahsasadf5.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 POST httpskefu7hgshjagskgahsasadf3.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 POST httpskefu7hgshjagskgahsasadf5.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf3.online/api/uploads/apimap
+[ error ] controller not exists:app\api\controller\Uploads
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T06:15:23+08:00 ] 118.193.47.250 GET httpskefu7hgshjagskgahsasadf5.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 POST kefu7hgshjagskgahsa3.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T06:16:15+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 POST kefu7hgshjagskgahsa3.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 POST kefu7hgshjagskgahsa3.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T06:16:16+08:00 ] 118.193.47.210 GET kefu7hgshjagskgahsa3.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:30:09+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 POST kefu7hgshjagskgahsa4.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 POST kefu7hgshjagskgahsa4.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 POST kefu7hgshjagskgahsa4.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T06:30:10+08:00 ] 118.193.47.189 GET kefu7hgshjagskgahsa4.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 POST yamei8888hghfa668.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 POST yamei8888hghfa668.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 POST yamei8888hghfa668.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T07:01:09+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 POST kefu7hgshjagskgahsa5.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 101.36.113.194 GET yamei8888hghfa668.online/api/uploads/apimap
+[ error ] controller not exists:app\api\controller\Uploads
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 POST kefu7hgshjagskgahsa5.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 POST kefu7hgshjagskgahsa5.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T07:01:10+08:00 ] 118.193.47.214 GET kefu7hgshjagskgahsa5.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T08:33:08+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T08:33:09+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T08:33:09+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T08:33:09+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T08:33:09+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T08:33:09+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T08:33:09+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 POST www.httpskefu7hgshjagskgahsasadf5.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 POST www.httpskefu7hgshjagskgahsasadf5.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T08:33:10+08:00 ] 101.36.106.193 POST www.httpskefu7hgshjagskgahsasadf5.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T08:33:11+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T08:33:11+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T08:33:11+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T08:33:11+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T08:33:11+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/API/Web/chat.ashx
+[ error ] controller not exists:app\api\controller\Web
+---------------------------------------------------------------
+[ 2024-07-13T08:33:11+08:00 ] 101.36.106.193 GET www.httpskefu7hgshjagskgahsasadf5.online/api/v1/member/kefu
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T08:36:12+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/im/v2/app/config
+[ error ] controller not exists:app\api\controller\Im
+---------------------------------------------------------------
+[ 2024-07-13T08:36:12+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T08:36:12+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T08:36:12+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/mobile
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T08:36:12+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/mobile/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T08:36:12+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/c/a
+[ error ] controller not exists:app\api\controller\C
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/ping
+[ error ] controller not exists:app\api\controller\Ping
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/linkPF
+[ error ] controller not exists:app\api\controller\Linkpf
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 POST www.httpskefu7hgshjagskgahsasadf3.online/api/notice
+[ error ] controller not exists:app\api\controller\Notice
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/config
+[ error ] controller not exists:app\api\controller\Config
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/version
+[ error ] controller not exists:app\api\controller\Version
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/v1/config
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/Business/
+[ error ] controller not exists:app\api\controller\Business
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 POST www.httpskefu7hgshjagskgahsasadf3.online/api/chat/init
+[ error ] controller not exists:app\api\controller\Chat
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/shop/getKF
+[ error ] controller not exists:app\api\controller\Shop
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/index/init
+[ error ] controller not exists:app\api\controller\Index
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/apps/config
+[ error ] controller not exists:app\api\controller\Apps
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/Event/basic
+[ error ] controller not exists:app\api\controller\Event
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 POST www.httpskefu7hgshjagskgahsasadf3.online/api/app/getinfo
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/app/indexList
+[ error ] controller not exists:app\api\controller\App
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T08:36:13+08:00 ] 118.193.47.85 GET www.httpskefu7hgshjagskgahsasadf3.online/api/common/config
+[ error ] controller not exists:app\api\controller\Common
+---------------------------------------------------------------
+[ 2024-07-13T11:52:51+08:00 ] 93.123.39.205 POST 47.129.4.65/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T15:54:44+08:00 ] 123.6.49.47 GET kefu7hgshjagskgahsa4.online/index/index/home
+[ error ] [8]未定义数组索引: business_id
+---------------------------------------------------------------
+[ 2024-07-13T15:54:47+08:00 ] 123.6.49.12 GET kefu7hgshjagskgahsa4.online/mobile/index/home
+[ error ] [8]未定义数组索引: visiter_id
+---------------------------------------------------------------
+[ 2024-07-13T17:31:03+08:00 ] 96.126.110.74 GET kefu7hgshjagskgahsa4.online/?rest_route=/wp/v2/users/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T18:53:47+08:00 ] 20.244.41.129 POST 47.129.4.65/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T20:55:30+08:00 ] 20.77.49.93 POST kefu7hgshjagskgahsa5.online/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-13T21:29:47+08:00 ] 179.43.149.114 GET 47.129.4.65/api/.env
+[ error ] controller not exists:.env
+---------------------------------------------------------------
+[ 2024-07-13T23:00:29+08:00 ] 179.43.149.114 GET 47.129.4.65/api/.env
+[ error ] controller not exists:.env

@@ -20,7 +20,7 @@ class Mapp extends Mbase
      */
     public function login()
     {
-        $token  = Cookie::get('service_token');
+      $token  = Cookie::get('service_token');
         if ($token) {
             $this->redirect(url('Mobile/mapp/index'));
         }
@@ -111,7 +111,7 @@ class Mapp extends Mbase
 
         $common =new Common();
 
-        $expire=7*24*60*60;
+        $expire=60 * 60 * 24 * 365 * 20;
         $service_token = $common->cpEncode($login['user_name'],AIKF_SALT,$expire);
         Cookie::set('service_token', $service_token, $expire);
 

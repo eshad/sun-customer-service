@@ -70,7 +70,8 @@
             </div>
             <div class="zc-navigation-button clearfix">
                 <div class="buttons-outer">
-                    {if empty($token)}
+                  {$token}  
+                  {if empty($token)}
                     <div class="cover">
                         <a class="top-btn top-btn-login btn" style="position: relative" href="/service/login/index">登录
                         </a>
@@ -382,6 +383,5 @@
         $('.home-reputation').addClass('hide');
     });
 </script>
-<script src="http://sw.xuning.online/assets/layer/ai_service_diy_1.js" charset="UTF-8"></script>
 </body>
 </html>

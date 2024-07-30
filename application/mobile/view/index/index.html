@@ -288,12 +288,12 @@
 
         .msg-toolbar {
             width: 100%;
-            height: 44px;
+            height: 45px;
             position: absolute;
             bottom: 0;
             left: 0;
             right: 0;
-            top: 50px;
+            top: 30px;
             background-color: #F2F5F7;
         }
 
@@ -715,9 +715,9 @@
             </div>
         </div>
         <div class="foot_msg">
-            <div class="footer">
+            <div class="footer" style="top:-15px">
                 <input type="text" id="text_in" placeholder="{$lang['please_enter']}" class="layui-input" autocomplete="off"/>
-                <button class="layui-btn layui-btn-normal send-btn" style="background-color: #000722"
+                <button class="layui-btn layui-btn-normal send-btn" style="background-color: #000722; height: 32px"
                         onclick="send()">{$lang['send']}
                 </button>
             </div>

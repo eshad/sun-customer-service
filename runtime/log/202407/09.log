@@ -1,0 +1,105 @@
+---------------------------------------------------------------
+[ 2024-07-09T04:54:34+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env
+[ error ] controller not exists:.env
+---------------------------------------------------------------
+[ 2024-07-09T04:56:29+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.local
+[ error ] controller not exists:.env.local
+---------------------------------------------------------------
+[ 2024-07-09T04:56:29+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.production
+[ error ] controller not exists:.env.production
+---------------------------------------------------------------
+[ 2024-07-09T04:56:29+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.staging
+[ error ] controller not exists:.env.staging
+---------------------------------------------------------------
+[ 2024-07-09T04:56:29+08:00 ] 18.170.63.105 GET 47.129.4.65/api/src/.env
+[ error ] controller not exists:app\api\controller\Src
+---------------------------------------------------------------
+[ 2024-07-09T05:00:51+08:00 ] 18.170.63.105 GET 47.129.4.65/api/index.php/v1/config/application
+[ error ] controller not exists:app\api\controller\index\Php
+---------------------------------------------------------------
+[ 2024-07-09T05:01:04+08:00 ] 18.170.63.105 GET 47.129.4.65/api/controllers/userController.js
+[ error ] controller not exists:app\api\controller\Controllers
+---------------------------------------------------------------
+[ 2024-07-09T05:01:06+08:00 ] 18.170.63.105 GET 47.129.4.65/api/Constants.js
+[ error ] controller not exists:app\api\controller\constants\Js
+---------------------------------------------------------------
+[ 2024-07-09T05:01:10+08:00 ] 18.170.63.105 GET 47.129.4.65/api/models/sns_getsmstype.js
+[ error ] controller not exists:app\api\controller\Models
+---------------------------------------------------------------
+[ 2024-07-09T05:01:11+08:00 ] 18.170.63.105 GET 47.129.4.65/api/src/mailer.ts
+[ error ] controller not exists:app\api\controller\Src
+---------------------------------------------------------------
+[ 2024-07-09T05:01:12+08:00 ] 18.170.63.105 GET 47.129.4.65/api/db.js
+[ error ] controller not exists:app\api\controller\db\Js
+---------------------------------------------------------------
+[ 2024-07-09T05:01:19+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.bak
+[ error ] controller not exists:.env.bak
+---------------------------------------------------------------
+[ 2024-07-09T05:01:19+08:00 ] 18.170.63.105 GET 47.129.4.65/api/config.env
+[ error ] controller not exists:app\api\controller\config\Env
+---------------------------------------------------------------
+[ 2024-07-09T05:01:19+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.dist
+[ error ] controller not exists:.env.dist
+---------------------------------------------------------------
+[ 2024-07-09T05:01:19+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.dev
+[ error ] controller not exists:.env.dev
+---------------------------------------------------------------
+[ 2024-07-09T05:02:11+08:00 ] 18.170.63.105 GET 47.129.4.65/API/.env.bak
+[ error ] controller not exists:.env.bak
+---------------------------------------------------------------
+[ 2024-07-09T05:02:11+08:00 ] 18.170.63.105 GET 47.129.4.65/API/.env
+[ error ] controller not exists:.env
+---------------------------------------------------------------
+[ 2024-07-09T05:02:11+08:00 ] 18.170.63.105 GET 47.129.4.65/API/config.env
+[ error ] controller not exists:app\api\controller\config\Env
+---------------------------------------------------------------
+[ 2024-07-09T05:02:11+08:00 ] 18.170.63.105 GET 47.129.4.65/API/.env.dist
+[ error ] controller not exists:.env.dist
+---------------------------------------------------------------
+[ 2024-07-09T05:02:12+08:00 ] 18.170.63.105 GET 47.129.4.65/API/.env.dev
+[ error ] controller not exists:.env.dev
+---------------------------------------------------------------
+[ 2024-07-09T05:02:12+08:00 ] 18.170.63.105 GET 47.129.4.65/API/.env.local
+[ error ] controller not exists:.env.local
+---------------------------------------------------------------
+[ 2024-07-09T05:02:50+08:00 ] 18.170.63.105 GET 47.129.4.65/api/xampp/phpinfo
+[ error ] controller not exists:app\api\controller\Xampp
+---------------------------------------------------------------
+[ 2024-07-09T05:02:50+08:00 ] 18.170.63.105 GET 47.129.4.65/api/_profiler/phpinfo
+[ error ] controller not exists:_profiler
+---------------------------------------------------------------
+[ 2024-07-09T05:02:50+08:00 ] 18.170.63.105 GET 47.129.4.65/api/phpinfo
+[ error ] controller not exists:app\api\controller\Phpinfo
+---------------------------------------------------------------
+[ 2024-07-09T05:02:51+08:00 ] 18.170.63.105 GET 47.129.4.65/api/php.ini
+[ error ] controller not exists:app\api\controller\php\Ini
+---------------------------------------------------------------
+[ 2024-07-09T05:12:22+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.development
+[ error ] controller not exists:.env.development
+---------------------------------------------------------------
+[ 2024-07-09T05:12:23+08:00 ] 18.170.63.105 GET 47.129.4.65/api/.env.test
+[ error ] controller not exists:.env.test
+---------------------------------------------------------------
+[ 2024-07-09T15:40:16+08:00 ] 115.164.140.4 GET kefu7hgshjagskgahsa3.online/mobile/index?code=stIxyg8JzHS8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwH4hbtNAfdoOAF8Rlhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: cancel
+---------------------------------------------------------------
+[ 2024-07-09T20:18:23+08:00 ] 47.250.134.195 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-09T20:18:23+08:00 ] 47.250.134.195 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-09T20:53:09+08:00 ] 20.0.136.211 POST kefu7hgshjagskgahsa3.online/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-09T23:04:34+08:00 ] 20.0.136.211 POST kefu7hgshjagskgahsa4.online/
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-09T23:23:42+08:00 ] 90.230.219.69 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-09T23:23:46+08:00 ] 90.230.219.69 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-09T23:23:57+08:00 ] 20.0.136.211 POST httpskefu7hgshjagskgahsasadf3.online/
+[ error ] [8]未定义数组索引: code

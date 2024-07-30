@@ -1,0 +1,72 @@
+---------------------------------------------------------------
+[ 2024-07-08T02:47:11+08:00 ] 83.147.52.49 GET httpskefu7hgshjagskgahsasadf3.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-08T02:47:11+08:00 ] 83.147.52.49 GET httpskefu7hgshjagskgahsasadf5.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-08T03:02:51+08:00 ] 198.7.112.214 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-08T03:02:51+08:00 ] 198.7.112.214 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-08T08:32:17+08:00 ] 206.189.233.163 GET 47.129.4.65:443/index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-08T08:32:17+08:00 ] 206.189.233.163 GET 47.129.4.65:443/index.php?lang=../../../../../../../../tmp/index1
+[ error ] [8]未定义数组索引: code
+---------------------------------------------------------------
+[ 2024-07-08T09:46:14+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=t4I3zV9cw3S8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHYyL8ZdZ98XDQYZgEwYpruN1NzUvLCMdfDj209N%2Bg
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:16+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=5Yc1zFNYySO8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHYzL8ZdZ98XDQYZgEwYpruN1NzUvLCMdfDj209N%2Bg
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:17+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=5dZjyw8JmHG8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHY0L8ZdZ98XDQYZgEwYpruN1NzUvLCMdfDj209N%2Bg
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:19+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=t4gwnVlTyiO8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHY1L8ZdZ98XDQYZgEwYpruN1NzUvLCMdfDj209N%2Bg
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:21+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=sYI%2FzA5dzXK8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHY2L8ZdZ98XDQYZgEwYpruN1NzUvLCMdfDj209N%2Bg
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:22+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=t4hjnwsLm3G8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHY3L8ZdZ98XDQYZgEwYpruN1NzUvLCMdfDj209N%2Bg
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:26+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=sYY1nFxSyH%2B8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwH4hbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:28+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=5NVlzQ8JwnO8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwH8hbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:31+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=64M3zlxSyHK8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHAhbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:33+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=5YE2n1hYy3C8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHEhbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:35+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=sYA%2FwF8LnnG8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHIhbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:36+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=4dIwyVsOzSC8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHMhbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:38+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=toIynFoJwna8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHQhbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T09:46:40+08:00 ] 65.181.17.124 GET httpskefu7hgshjagskgahsasadf3.online/index/index?code=44A%2BnF9fy3S8ELYdy3FzF07HPU1IofBjgeH7NbYtUaj2MIpJrMCNYh4p2FG7QV5Mxj6t8D6jvCnmktmiwHUhbtNAfdoOAF8Ulhoau7Ccwsudp%2BWPYPbp00Ic
+[ error ] [8]未定义数组索引: business_name
+---------------------------------------------------------------
+[ 2024-07-08T11:59:27+08:00 ] 83.147.52.49 GET kefu7hgshjagskgahsa3.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-08T11:59:27+08:00 ] 83.147.52.49 GET kefu7hgshjagskgahsa4.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-08T11:59:27+08:00 ] 83.147.52.49 GET kefu7hgshjagskgahsa5.online/api/.git/config
+[ error ] controller not exists:.git
+---------------------------------------------------------------
+[ 2024-07-08T15:33:10+08:00 ] 82.180.146.147 POST 47.129.4.65/
+[ error ] [8]未定义数组索引: code

@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:73:"/var/www/html/www.kefu.com/public/../application/index/view/index/pc.html";i:1715055252;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:73:"/var/www/html/www.kefu.com/public/../application/index/view/index/pc.html";i:1720758854;}*/ ?>
 <html>
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
@@ -71,7 +71,7 @@
             </div>
             <div class="zc-navigation-button clearfix">
                 <div class="buttons-outer">
-                    <?php if(empty($token)): ?>
+                  <?php echo $token; if(empty($token)): ?>
                     <div class="cover">
                         <a class="top-btn top-btn-login btn" style="position: relative" href="/service/login/index">登录
                         </a>
@@ -383,6 +383,5 @@
         $('.home-reputation').addClass('hide');
     });
 </script>
-<script src="http://sw.xuning.online/assets/layer/ai_service_diy_1.js" charset="UTF-8"></script>
 </body>
 </html>

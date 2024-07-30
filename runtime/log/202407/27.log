@@ -1,0 +1,15 @@
+---------------------------------------------------------------
+[ 2024-07-27T13:11:50+08:00 ] 167.71.116.79 GET 47.129.4.65:443/api/sonicos/tfa
+[ error ] controller not exists:app\api\controller\Sonicos
+---------------------------------------------------------------
+[ 2024-07-27T13:11:50+08:00 ] 167.71.116.79 GET 47.129.4.65:443/api/sonicos/auth
+[ error ] controller not exists:app\api\controller\Sonicos
+---------------------------------------------------------------
+[ 2024-07-27T13:16:52+08:00 ] 204.48.18.150 GET 47.129.4.65/api/v1
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2024-07-27T23:42:05+08:00 ] 123.6.49.50 GET kefu7hgshjagskgahsa4.online/index/index/home
+[ error ] [8]未定义数组索引: business_id
+---------------------------------------------------------------
+[ 2024-07-27T23:42:11+08:00 ] 123.6.49.50 GET kefu7hgshjagskgahsa4.online/mobile/index
+[ error ] [8]未定义数组索引: code

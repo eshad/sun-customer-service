@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:76:"/var/www/html/www.kefu.com/public/../application/index/view/index/price.html";i:1715055252;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:76:"/var/www/html/www.kefu.com/public/../application/index/view/index/price.html";i:1720706295;}*/ ?>
 <html>
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
@@ -253,6 +253,5 @@
         $(this).addClass('active');
     });
 </script>
-<script src="http://sw.xuning.online/assets/layer/ai_service_diy_1.js" charset="UTF-8"></script>
 </body>
 </html>

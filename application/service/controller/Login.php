@@ -35,7 +35,8 @@ class Login extends Controller
      */
     public function index()
     {
-        $token = Cookie::get('service_token');
+      $token = Cookie::get('service_token');
+       Cookie::delete('service_token');
         if ($token) $this->redirect(url('service/index/index'));
         // 未登陆，呈现登陆页面.
         $params = [];
@@ -104,9 +105,10 @@ class Login extends Controller
         $business = Business::get($_SESSION['Msg']['business_id']);
         $_SESSION['Msg']['business'] = $business->getData();
         $common = new Common();
-        $expire = 7 * 24 * 60 * 60;
+        $expire = 60 * 60 * 24 * 365 * 20; //for 10 years
         $service_token = $common->cpEncode($login['user_name'], AIKF_SALT, $expire);
         Cookie::set('service_token', $service_token, $expire);
+         Cookie::delete('service_token');
         $ismoblie = $common->isMobile();
         $this->record_log('登录成功');
         if ($ismoblie) {

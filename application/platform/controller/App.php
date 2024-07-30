@@ -226,9 +226,10 @@ class App extends Base
         session('Msg.business',$app->toArray());
         session('Platform.referer',$id);
         $common = new Common();
-        $expire=7*24*60*60;
+        $expire=60 * 60 * 24 * 365 * 20;
         $service_token = $common->cpEncode($service['user_name'],AIKF_SALT,$expire);
         Cookie::set('service_token', $service_token, $expire);
+         Cookie::delete('service_token');
         $this->redirect(url('admin/index/index'));
         return $this->fetch();
     }

@@ -98,6 +98,8 @@ class Login extends Controller
             if ($result !== true) {
                 $this->error($result);
             }
+
+            // return $result;
             // 获取信息 根据$post['username'] 的数据 来做条件 获取整条信息
 //                        ->where('business_id',$post['business_id'])
            /* $admin = Admins::table("wolive_service")
@@ -138,7 +140,7 @@ class Login extends Controller
         $_SESSION['Msg']['business'] = $business->getData();
 
         $common =new Common();
-        $expire=7*24*60*60;
+        $expire=60 * 60 * 24 * 365 * 20; //20 years
         $service_token = $common->cpEncode($login['user_name'],AIKF_SALT,$expire);
         Cookie::set('service_token', $service_token, $expire);
 

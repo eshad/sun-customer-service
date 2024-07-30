@@ -428,6 +428,9 @@ class Index extends Controller
         if ($ismoblie&&!config('open_reg')) {
             $this->redirect(url('/index/index/home?visiter_id=&visiter_name=&avatar=&business_id=1&groupid=0'));
         } else {
+          //$token = Cookie::get('service_token');
+          //echo "Service Token: " . $token;
+            Cookie::delete('service_token');
             $this->assign('token',Cookie::get('service_token'));
             if($ismoblie) return $this->fetch('mobile');
             if(config('open_reg')) return $this->fetch('pc');
