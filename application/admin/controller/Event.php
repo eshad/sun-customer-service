@@ -66,6 +66,127 @@ class Event extends Controller
      *
      * @returngetanswer void
      */
+
+     public function push() {
+        // Retrieve visiter_id, amount, and code from URL parameters
+        $visiter_id = isset($_GET['visiter_id']) ? $_GET['visiter_id'] : null;
+        $amount = isset($_GET['amount']) ? $_GET['amount'] : null;
+        // $code = isset($_GET['code']) ? $_GET['code'] : null;
+
+    
+        if (!$visiter_id || !$amount) {
+            // Handle missing parameters
+            $returndata = ['code' => 1, 'msg' => 'Missing parameters'];
+            return json_encode($returndata, true);
+        }
+    
+        // Construct the message
+        $msg = "我想充值 " . $amount;
+    
+        if (!ahost) {
+            $http_type = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on') || 
+                        (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https')) ? 'https://' : 'http://';
+            $domain = $http_type . $_SERVER['HTTP_HOST'];
+        } else {
+            $domain = ahost;
+        }
+        $sarr = parse_url($domain);
+        $state = ($sarr['scheme'] == 'https');
+    
+        // Pusher configuration
+        $app_key = app_key;
+        $app_secret = app_secret;
+        $app_id = app_id;
+        $options = array('encrypted' => $state);
+        $host = $domain;
+        $port = aport;
+    
+        $pusher = new Pusher(
+            $app_key,
+            $app_secret,
+            $app_id,
+            $options,
+            $host,
+            $port
+        );
+    
+        $business_id = "1";
+        $service_id = "1";
+    
+        // Check if the visiter_id exists in wolive_visiter table
+        $visiter_exists = Db::table('wolive_visiter')
+            ->where('visiter_id', $visiter_id)
+            ->count() > 0;
+    
+        // If not exists, insert into wolive_visiter table
+        if (!$visiter_exists) {
+            $visiter_data = [
+                'visiter_id' => $visiter_id,
+                'business_id' => $business_id,
+                'visiter_name' => $visiter_id,
+                'avatar' => '/assets/images/index/avatar-red2.png',
+                'from_url' => '',
+                'state' => 'online',
+                'ip' => $_SERVER['REMOTE_ADDR'],
+                'timestamp' => date('Y-m-d H:i:s'),
+                'lang' => 'en',
+                'channel' => bin2hex($visiter_id . '/' . $business_id)
+            ];
+            Db::table('wolive_visiter')->insert($visiter_data);
+        }
+    
+        // Check if the visiter_id exists in wolive_queue table
+        $queue_exists = Admins::table('wolive_queue')
+            ->where('visiter_id', $visiter_id)
+            ->count() > 0;
+    
+        // If not exists, insert into wolive_queue table
+        if (!$queue_exists) {
+            $queue_data = [
+                'visiter_id' => $visiter_id,
+                'service_id' => $service_id,
+                'groupid' => 0,
+                'business_id' => $business_id,
+                'state' => 'normal',
+                'timestamp' => date('Y-m-d H:i:s'),
+                'remind_tpl' => 0,
+                'remind_comment' => 0
+            ];
+            Admins::table('wolive_queue')->insert($queue_data);
+        }
+    
+        // Prepare message data
+        $arr['visiter_id'] = $visiter_id;
+        $arr['business_id'] = $business_id;
+        $arr['service_id'] = $service_id;
+        $arr["timestamp"] = time();
+        $arr["content"] = $msg;
+        $arr['direction'] = 'to_service';
+    
+        // Insert message into wolive_chats table
+        $robot_arr = [
+            'visiter_id' => $visiter_id,
+            'content' => $arr['content'],
+            'unstr' => md5(uniqid()),
+            'business_id' => $business_id,
+            'service_id' => $service_id,
+            'direction' => 'to_service',
+            'timestamp' => time() + 5,
+            'type' => 1,
+        ];
+        $cid = Db::table('wolive_chats')->insertGetId($robot_arr);
+    
+        // Trigger Pusher event
+        $pusher->trigger('kefu' . $service_id, 'cu-event', ['message' => $arr]);
+    
+        // Redirect to the specified UI with visiter_id, msg, and code as URL parameters
+        $redirect_url = "https://kefu7hgshjagskgahsa4.online/mobile/index/home?visiter_id=" . urlencode($visiter_id) . 
+                    "&visiter_name=" . urlencode($visiter_id) . 
+                    "&avatar=&business_id=1&groupid=0&special=1";
+        header("Location: " . $redirect_url);
+        exit();
+    }
+
     public function index()
     {
         // pusher 访问的 地址
