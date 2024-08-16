@@ -349,8 +349,7 @@ class Event extends Controller
      *
      * @return void
      */
-    public function chat()
-    {
+    public function chat(){
         $arr = $_POST;
 
         if (!ahost) {
@@ -603,10 +602,9 @@ class Event extends Controller
      *
      * @return mixed
      */
-    public function notice()
-    {
+    public function notice(){
 
-//        $ip = $_SERVER["REMOTE_ADDR"];
+        // $ip = $_SERVER["REMOTE_ADDR"];
         $ip = $this->request->ip();
 
         $sarr = parse_url(ahost);
@@ -1132,8 +1130,7 @@ class Event extends Controller
      *
      * @return string
      */
-    public function chatdata()
-    {
+    public function chatdata1(){
 
         $post = $this->request->post();
         $vid = $post['vid'];
@@ -1177,6 +1174,60 @@ class Event extends Controller
         $data = ['code' => 0, 'data' => $result];
         return $data;
     }
+
+    public function chatdata(){
+        $post = $this->request->post();
+        $vid = $post['vid'];
+        $service_id = $post['service_id'];
+        $business_id = $post['business_id'];
+        $hid = $post["hid"];
+
+        // Check if the user is an admin
+        $isAdmin = $this->isAdmin(); // Implement this method to check if the user is an admin
+
+        // Determine the time limit for regular users (last 24 hours)
+        $last24Hours = time() - 24 * 60 * 60;
+
+        // Base query
+        $query = Admins::table('wolive_chats')
+            ->where(['service_id' => $service_id, 'visiter_id' => $vid, 'business_id' => $business_id])
+            ->order('timestamp desc, cid asc')
+            ->limit(10);
+
+        // Apply the time limit for regular users
+        if (!$isAdmin) {
+            $query->where('timestamp', '>=', $last24Hours);
+        }
+
+        if ($hid == '') {
+            $data = $query->select();
+        } else {
+            $data = $query->where('cid', '<', $hid)->select();
+        }
+
+        $vdata = Admins::table('wolive_visiter')->where('visiter_id', $vid)->find();
+        $sdata = Admins::table('wolive_service')->where('service_id', $service_id)->find();
+
+        foreach ($data as $v) {
+            if ($v['direction'] == 'to_service') {
+                $v['avatar'] = $vdata['avatar'];
+            } else {
+                $v['avatar'] = $sdata ? $sdata['avatar'] : '/assets/images/index/ai_service.png';
+            }
+        }
+        reset($data);
+
+        $result = array_reverse($data);
+
+        $data = ['code' => 0, 'data' => $result];
+        return $data;
+}
+
+private function isAdmin(){
+    // Implement your logic to check if the current user is an admin
+    // This is just an example. Adjust it based on your authentication logic.
+    return isset($_SESSION['user_role']) && $_SESSION['user_role'] == 'admin';
+}
 
 
     /**
